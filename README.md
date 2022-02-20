@@ -19,13 +19,10 @@
 - ⚡ Fun fact: I'm a `dancer and content creator`.
 - 💭 Let's get to know each other 
 
-### Checkout my Tiktok channel in [Tiktok](https://www.tiktok.com/@vinhnk9)
-
 <div align="center">
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhnk2920&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -33,5 +30,4 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-![Khanh Vinh's github stats](https://github-readme-stats.vercel.app/api/?username=vinhnk2920&show_icons=true&theme=radical) 
 </div>

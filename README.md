@@ -8,12 +8,10 @@
 <a href="https://instagram.com/trinwin.dev"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> :hatching_chick: Khanh Vinh Nguyen    |     💻 Software Engineer    |    🌏 Hanoi, Vietnam </h3> 
+<h3> :hatching_chick: Huynh Nguyen Phuong Duy    |     💻 Software Engineer    |    🌏 CanTho, Vietnam </h3> 
 </div>
 
 ### About me 
-
-- 🎖 Completed software internships at [Giaohangtietkiem](https://giaohangtietkiem.vn/)
 - :mortar_board: Information technology @ National Economics University Vietnam
 - 🌱 Learning `Fullstack Web Development`. 
 - :computer: Working as `Software Engineer`

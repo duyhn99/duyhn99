@@ -14,9 +14,9 @@
 ### About me 
 - :mortar_board: Software Engineer  @ Can Tho University (Vietnam)
 - 🌱 Learning `Web Development`. 
-- :computer: Working as `Software Engineer`
+- :computer: Working as `Software Engineer`.
 - 🤔 Need some help with `technical interview and algorithm`.
-- ⚡ Fun fact: I'm a `dancer and content creator`.
+<!-- - ⚡ Fun fact: I'm a `dancer and content creator`. -->
 - 💭 Let's get to know each other 
 
 <div align="center">

@@ -12,7 +12,7 @@
 </div>
 
 ### About me 
-- :mortar_board: Software Engineer  @ Can Tho University
+- :mortar_board: Software Engineer  @ Can Tho University (Vietnam)
 - 🌱 Learning `Web Development`. 
 - :computer: Working as `Software Engineer`
 - 🤔 Need some help with `technical interview and algorithm`.

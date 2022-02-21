@@ -16,8 +16,8 @@
 - 🌱 Learning `Web Development`. 
 - :computer: Working as `Software Engineer`.
 - 🤔 Need some help with `technical interview and algorithm`.
-<!-- - ⚡ Fun fact: I'm a `dancer and content creator`. -->
 - 💭 Let's get to know each other 
+- <!-- - ⚡ Fun fact: I'm a `dancer and content creator`. -->
 
 <div align="center">
 
